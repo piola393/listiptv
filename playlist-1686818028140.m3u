@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="rai1.it" tvg-name="IT- Rai 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai1.png" group-title="EU- IT TVSAT",IT- Rai 1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428155
+#EXTINF:-1 tvg-ID="rai1.it" tvg-name="IT- Rai 1 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai1.png" group-title="EU- IT TVSAT",IT- Rai 1 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428157
+#EXTINF:-1 tvg-ID="rai2.it" tvg-name="IT- Rai 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai2.png" group-title="EU- IT TVSAT",IT- Rai 2 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428160
+#EXTINF:-1 tvg-ID="rai2.it" tvg-name="IT- Rai 2 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai2.png" group-title="EU- IT TVSAT",IT- Rai 2 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428162
+#EXTINF:-1 tvg-ID="rai3.it" tvg-name="IT- Rai 3 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai3tgrabruzzo.png" group-title="EU- IT TVSAT",IT- Rai 3 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428165
+#EXTINF:-1 tvg-ID="rai3.it" tvg-name="IT- Rai 3 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai3tgrabruzzo.png" group-title="EU- IT TVSAT",IT- Rai 3 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428167
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Rete 4 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rete4.png" group-title="EU- IT TVSAT",IT- Rete 4 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428170
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Rete 4 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rete4.png" group-title="EU- IT TVSAT",IT- Rete 4 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428172
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT- Canale 5 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canale5.png" group-title="EU- IT TVSAT",IT- Canale 5 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428175
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT- Canale 5 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canale5hd.png" group-title="EU- IT TVSAT",IT- Canale 5 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428177
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT- Italia 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/italia1.png" group-title="EU- IT TVSAT",IT- Italia 1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428180
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT- Italia 1 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/italia1.png" group-title="EU- IT TVSAT",IT- Italia 1 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428182
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT- La 7 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/la7.png" group-title="EU- IT TVSAT",IT- La 7 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428184
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT- La 7 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/la7.png" group-title="EU- IT TVSAT",IT- La 7 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428186
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="IT- Tv 8 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv8.png" group-title="EU- IT TVSAT",IT- Tv 8 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428189
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="IT- TV 8 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv8.png" group-title="EU- IT TVSAT",IT- TV 8 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428190
+#EXTINF:-1 tvg-ID="20mediaset.it" tvg-name="IT- Mediaset 20 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/20mediasethd.png" group-title="EU- IT TVSAT",IT- Mediaset 20 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428192
+#EXTINF:-1 tvg-ID="20mediaset.it" tvg-name="IT- Mediaset 20 +1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/20mediasethd.png" group-title="EU- IT TVSAT",IT- Mediaset 20 +1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428194
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Mediaset Italia 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mediasetitaliadue.png" group-title="EU- IT TVSAT",IT- Mediaset Italia 2 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428200
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="IT- Rai 4 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai4.png" group-title="EU- IT TVSAT",IT- Rai 4 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428202
+#EXTINF:-1 tvg-ID="rai5.it" tvg-name="IT- Rai 5 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rai5.png" group-title="EU- IT TVSAT",IT- Rai 5 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428206
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="IT- La 5 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/la5.png" group-title="EU- IT TVSAT",IT- La 5 FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428209
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT- Rai Movie HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/raimovie.png" group-title="EU- IT TVSAT",IT- Rai Movie HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428212
+#EXTINF:-1 tvg-ID="raipremium.it" tvg-name="IT- Rai Premium HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/raipremiumhd.png" group-title="EU- IT TVSAT",IT- Rai Premium HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428215
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="IT- Mediaset Extra FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mediasetextra.png" group-title="EU- IT TVSAT",IT- Mediaset Extra FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428217
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="IT- Iris HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/iris.png" group-title="EU- IT TVSAT",IT- Iris HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428218
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Rsi LA 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rsila1hd.png" group-title="EU- IT TVSAT",IT- Rsi LA 1 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428219
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Rsi La 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rsila2hd.png" group-title="EU- IT TVSAT",IT- Rsi La 2 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428220
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="IT- Tv 2000 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv2000.jpg" group-title="EU- IT TVSAT",IT- Tv 2000 FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428221
+#EXTINF:-1 tvg-ID="euronews.it" tvg-name="IT- Euronews in diretta" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/euronewsgreek.png" group-title="EU- IT TVSAT",IT- Euronews in diretta
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428222
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Rai News 24 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rainews24hd.png" group-title="EU- IT TVSAT",IT- Rai News 24 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428223
+#EXTINF:-1 tvg-ID="tgcom24.it" tvg-name="IT- TgCom 24 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tgcom24.png" group-title="EU- IT TVSAT",IT- TgCom 24 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428224
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="IT- Cartoon Network HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.cartoonnetwork.png" group-title="EU- IT SKY BAMBINI",IT- Cartoon Network HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428430
+#EXTINF:-1 tvg-ID="boomerang.it" tvg-name="IT- Boomerang HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/boomerangtv.png" group-title="EU- IT SKY BAMBINI",IT- Boomerang HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428444
+#EXTINF:-1 tvg-ID="raiyoyo.it" tvg-name="IT- Rai YoYo FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/raiyoyo.png" group-title="EU- IT SKY BAMBINI",IT- Rai YoYo FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428446
+#EXTINF:-1 tvg-ID="raigulp.it" tvg-name="IT- Rai Gulp FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/raigulp.png" group-title="EU- IT SKY BAMBINI",IT- Rai Gulp FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428447
+#EXTINF:-1 tvg-ID="frisbee.it" tvg-name="IT- Frisbee SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/frisbee.png" group-title="EU- IT SKY BAMBINI",IT- Frisbee SD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428449
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Discovery K2" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.Discovery_kids.png" group-title="EU- IT SKY BAMBINI",IT- Discovery K2
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428450
+#EXTINF:-1 tvg-ID="nickjunior.it" tvg-name="IT- Nick Jr HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickjrbg.png" group-title="EU- IT SKY BAMBINI",IT- Nick Jr HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428451
+#EXTINF:-1 tvg-ID="super.it" tvg-name="IT- Super!" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SUPER%21.png" group-title="EU- IT SKY BAMBINI",IT- Super!
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428452
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="IT- Boing HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/boing-tramufrasw.png" group-title="EU- IT SKY BAMBINI",IT- Boing HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428453
+#EXTINF:-1 tvg-ID="boingplus.it" tvg-name="IT- Boing Plus" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/boingplus.jpg" group-title="EU- IT SKY BAMBINI",IT- Boing Plus
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428454
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="IT- Cartoonito HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cartoonito.png" group-title="EU- IT SKY BAMBINI",IT- Cartoonito HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428455
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Discovery Nove FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/discovery.png" group-title="EU- IT SKY CULTURA",IT- Discovery Nove FHD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428334
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Discovery Dmax HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/discovery.png" group-title="EU- IT SKY CULTURA",IT- Discovery Dmax HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428339
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Discovery Giallo HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/discovery.png" group-title="EU- IT SKY CULTURA",IT- Discovery Giallo HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428345
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="IT- Real Time HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/realtimehd.png" group-title="EU- IT SKY CULTURA",IT- Real Time HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428349
+#EXTINF:-1 tvg-ID="" tvg-name="IT- Mediaset Cine 34 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mediasetitalia.png" group-title="EU- IT SKY CULTURA",IT- Mediaset Cine 34 HD
+http://nettv-premium.com:80/peefcfoiws/tyx0nrcxi8/428352
